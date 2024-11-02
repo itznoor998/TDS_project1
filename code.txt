@@ -1,3 +1,3 @@
-To view the code open the link.
+To view the code in colab open the link.
 
 https://colab.research.google.com/drive/11untpfr9Geug-jGSMVN05eB3xbTz2XVi?usp=sharing
